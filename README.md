@@ -19,6 +19,8 @@
 - Fulltime stack overflow observer
 - Professional procrastinator
 
+I haven't uploaded all my repositories here, I might do that later
+
 ## Languages and Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
