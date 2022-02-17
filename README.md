@@ -26,14 +26,14 @@ I haven't uploaded all my repositories here, I might do that later
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-<br>
 <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <br>
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" />
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" />
 </p>
 
 ## Reach Me Here
